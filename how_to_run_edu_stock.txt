@@ -1,0 +1,12 @@
+HOW TO RUN GIVEN ZIP FILE:-
+
+1. unzip it 
+2. open your Eclipse EE or SpringBoot , Import it from system.
+3. build path for tomcat server(version 9.0 recommended) in order to run this on server.
+4. run application , run on server.
+
+or
+
+1. create a dynamic web project in Eclipse EE or spring Boot.
+2. after unzipping, copy every file from edu_stock and paste exactly at same place in your web dynamic project i,e.. copy src content from edu_stock and paste it in src of your web dynamic project.
+3. then run on server(tomcat 9.0 recommended).
